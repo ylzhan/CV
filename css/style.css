@@ -165,17 +165,18 @@ body{
 }
 .edu-text{
 	margin-top: 10px;
+	width: 88%;
+	margin: auto;
 }
 .edu-text h4{
+	margin-top: 10px;
 	font-size: 18px;
 	color: #464646;
-	text-indent: 6em;
 }
 .edu-text p{
 	font-size: 16px;
 	margin: 10px 0;
 	color: #464646;
-	text-indent: 22em;
 }
 
 .pub-text{
@@ -193,16 +194,17 @@ body{
 
 .ski-text{
 	margin-top: 10px;
+	width: 88%;
+	margin: auto;
 }
 
 .ski-text h4{
+	margin-top: 10px;
 	font-size: 18px;
 	color: #464646;
-	text-indent: 6em;
 }
 .ski-text p{
 	font-size: 16px;
 	margin: 10px 0;
 	color: #464646;
-	text-indent: 6em;
 }
