@@ -54,16 +54,11 @@ body{
 .orcid img{
 	width: 20px;
 	height: 20px;
-	position: absolute;
-	right: 725px;
-	top: 437px;
+	margin-top: 6px;
 }
 
 .orcid a{
-	
-	position: absolute;
-	right: 534px;
-	top: 437px;
+	margin-top: 4px;
 	color: #333333;
 }
 
